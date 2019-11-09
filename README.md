@@ -1,2 +1,2 @@
-# daskeyboard-applet--cpu-ram-usage
+# CPU | RAM Usage
 Displays CPU or RAM usage.
