@@ -40,11 +40,7 @@ class Usage extends q.DesktopApp {
     }
 
     getColor(zoneIndex, numberOfKeysToLight) {
-        if (zoneIndex >= numberOfKeysToLight) {
-            return '#000000';
-        } else {
-            return colors[zoneIndex];
-        }
+        return zoneIndex >= numberOfKeysToLight ? '#000000' : colors[zoneIndex];
     }
 }
 
