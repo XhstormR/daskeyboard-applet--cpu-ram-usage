@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "daskeyboard-applet": "^2.11.4",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.19"
   },
   "engines": {
     "das-keyboard-q": "3.0.0"
